@@ -1,0 +1,11 @@
+id_medico,nombre,id_especialidad,telefono,email
+1,Dr. Carlos García,1,011-1234567,carlosgarcia@example.com
+2,Dra. Gabriela Fernández,2,011-2345678,gabrielafernandez@example.com
+3,Dr. Martín Sánchez,3,011-3456789,martinsanchez@example.com
+4,Dra. Lucía Rodríguez,4,011-4567890,luciarodriguez@example.com
+5,Dr. Pablo Martínez,5,011-5678901,pablomartinez@example.com
+6,Dra. Valentina López,6,011-6789012,valentinalopez@example.com
+7,Dr. Sebastián Pérez,7,011-7890123,sebastianperez@example.com
+8,Dra. Florencia Gómez,8,011-8901234,florenciagomez@example.com
+9,Dr. Mateo González,9,011-9012345,mateogonzalez@example.com
+10,Dra. Juana Martínez,10,011-0123456,juanamartinez@example.com

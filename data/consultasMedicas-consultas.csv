@@ -1,0 +1,41 @@
+id_consulta,id_paciente,id_medico,fecha,diagnostico,tratamiento
+1,1,1,2024-05-01,Resfriado común,NULL
+2,4,5,2024-05-02,Dolor abdominal,NULL
+3,4,10,2024-05-03,Presión arterial alta,NULL
+4,4,4,2024-05-04,Dermatitis leve,NULL
+5,8,5,2024-05-05,Esguince de tobillo,NULL
+6,8,6,2024-05-06,Ansiedad,NULL
+7,8,7,2024-05-07,Problemas de visión,NULL
+8,5,8,2024-05-08,Depresión,NULL
+9,9,9,2024-05-09,Fractura de brazo,NULL
+10,9,10,2024-05-10,Infección de garganta,NULL
+11,11,1,2024-05-11,Bronquitis,NULL
+12,11,2,2024-05-12,Gastritis,NULL
+13,13,3,2024-05-13,Migraña,NULL
+14,14,4,2024-05-14,Acné,NULL
+15,15,5,2024-05-15,Luxación de hombro,NULL
+16,16,6,2024-05-16,Trastorno obsesivo-compulsivo,NULL
+17,17,7,2024-05-17,Cataratas,NULL
+18,18,8,2024-05-18,Trastorno bipolar,NULL
+19,19,9,2024-05-19,Escoliosis,NULL
+20,11,10,2024-05-20,Infección de oído,NULL
+21,21,1,2024-05-21,Asma,NULL
+22,22,2,2024-05-22,Infección gastrointestinal,NULL
+23,23,3,2024-05-23,Dolor de cabeza crónico,NULL
+24,24,4,2024-05-24,Psoriasis,NULL
+25,25,5,2024-05-25,Fractura de pierna,NULL
+26,26,6,2024-05-26,Trastorno de pánico,NULL
+27,27,7,2024-05-27,Glaucoma,NULL
+28,28,8,2024-05-28,Trastorno de ansiedad generalizada,NULL
+29,29,9,2024-05-29,Hernia de disco,NULL
+30,30,10,2024-05-30,Sinusitis,NULL
+31,1,1,2024-05-31,Gripe,NULL
+32,30,2,2024-06-01,Úlcera estomacal,NULL
+33,30,3,2024-06-02,Cefalea tensional,NULL
+34,30,4,2024-06-03,Acné severo,NULL
+35,15,5,2024-06-04,Fractura de muñeca,NULL
+36,4,1,2024-06-05,Trastorno de estrés postraumático,NULL
+37,1,7,2024-06-06,Degeneración macular,NULL
+38,8,1,2024-06-07,Trastorno de personalidad límite,NULL
+39,3,9,2024-06-08,Espondilolistesis,NULL
+40,1,10,2024-06-09,Amigdalitis,NULL
