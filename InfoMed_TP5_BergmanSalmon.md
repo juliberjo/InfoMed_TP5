@@ -13,7 +13,7 @@ Es una base de datos relacional, ya que contiene información “cruzada” entr
 
 ### 2. Armar el diagrama de entidad relación
 
-![Diagrama](link_al_diagrama)
+![Diagrama](https://drive.google.com/uc?export=view&id=1jrPS65Y19epx-DY3EnbfrmAxIweRC_B8)
 
 ### 3. Considera que la base de datos está normalizada. En caso que no lo esté, ¿cómo podría hacerlo?
 
@@ -98,7 +98,7 @@ ORDER BY veces_recetado DESC
 LIMIT 1;
 ```
 
-![query6]()
+![query6](https://drive.google.com/uc?export=view&id=17TslBFFR2VOGNc-NHzi5w0HF4fzJVsJX)
 
 ### 7. Obtener el nombre del paciente junto con la fecha de su última consulta y el diagnóstico asociado.
 
